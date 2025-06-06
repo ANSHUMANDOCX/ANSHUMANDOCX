@@ -53,7 +53,7 @@
 ### [⚡ Voltage Regulator PCB](https://github.com/ANSHUMANDOCX/Voltage-Regulator-PCB)
 > Compact linear regulator breakout board for powering small microcontroller-based devices.
 
-- Designed in KiCad
+- Designed in EasyEDA
 
 ---
 
